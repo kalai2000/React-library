@@ -1,0 +1,122 @@
+export const Books = [
+  {
+    id: "1",
+    author: "Chinua Achebe",
+    country: "Nigeria",
+    imageLink: "/images/things-fall-apart.jpg",
+    language: "English",
+    link: "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+    pages: 209,
+    title: "Things Fall Apart",
+    year: 1958,
+    category: "Fiction"
+  },
+  {
+    id: "2",
+    author: "Hans Christian Andersen",
+    country: "Denmark",
+    imageLink: "/images/fairy-tales.jpg",
+    language: "Danish",
+    link: "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
+    pages: 784,
+    title: "Fairy tales",
+    year: 1836,
+    category: "Fiction"
+  },
+  { 
+    id: "3",
+    author: "Dante Alighieri",
+    country: "Italy",
+    imageLink: "/images/the-divine-comedy.jpg",
+    language: "Italian",
+    link: "https://en.wikipedia.org/wiki/Divine_Comedy",
+    pages: 928,
+    title: "The Divine Comedy",
+    year: 1315,
+    category: "Fiction"
+  },
+  {
+    id: "4",
+    author: "Ancient Sumerian Poet",
+    country: "Sumer and Akkadian Empire",
+    imageLink: "/images/the-epic-of-gilgamesh.jpg",
+    language: "Akkadian",
+    link: "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+    pages: 160,
+    title: "The Epic Of Gilgamesh",
+    year: -1700,
+    category: "Science"
+  },
+  {
+    id: "5",
+    author: "Biblical Scholar",
+    country: "Achaemenid Empire",
+    imageLink: "/images/the-book-of-job.jpg",
+    language: "Hebrew",
+    link: "https://en.wikipedia.org/wiki/Book_of_Job",
+    pages: 176,
+    title: "The Book Of Job",
+    year: -600,
+    category: "Science"
+  },
+  { 
+    id: "6",
+    author: "Arabian Folklorists",
+    country: "India/Iran/Iraq",
+    imageLink: "/images/one-thousand-and-one-nights.jpg",
+    language: "Arabic",
+    link: "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+    pages: 288,
+    title: "One Thousand and One Nights",
+    year: 1200,
+    category: "Science"
+  },
+  { 
+    id: "7",
+    author: "Icelandic Historian",
+    country: "Iceland",
+    imageLink: "/images/njals-saga.jpg",
+    language: "Old Norse",
+    link: "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga",
+    pages: 384,
+    title: "Njál's Saga",
+    year: 1350,
+    category: "Fiction"
+  },
+  {
+    id: "8",
+    author: "Jane Austen",
+    country: "United Kingdom",
+    imageLink: "/images/pride-and-prejudice.jpg",
+    language: "English",
+    link: "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+    pages: 226,
+    title: "Pride and Prejudice",
+    year: 1813,
+    category: "Fiction"
+  },
+  {
+    id: "9",
+    author: "Honoré de Balzac",
+    country: "France",
+    imageLink: "/images/le-pere-goriot.jpg",
+    language: "French",
+    link: "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot",
+    pages: 443,
+    title: "Le Père Goriot",
+    year: 1835,
+    category: "Fiction"
+  },
+  { 
+    id: "10",
+    author: "Samuel Beckett",
+    country: "Republic of Ireland",
+    imageLink: "/images/molloy-malone-dies-the-unnamable.jpg",
+    language: "French, English",
+    link: "https://en.wikipedia.org/wiki/Molloy_(novel)",
+    pages: 256,
+    title: "Molloy, Malone Dies, The Unnamable, the trilogy",
+    year: 1952,
+    category: "Science"
+  }
+];
